@@ -36,4 +36,8 @@ An analysis would be to see if a specific type of stage is more or less predicti
 
 Here is a Plotly Analysis from my Where's Schueller assignment. It is a heat map of Professor Schueller's location in Walla Walla over the years during the afternoon and evening of Halloween.
 
-[Halloween](newplot.png)
+[Halloween](Where-s-Schueller)
+
+# Above and Beyond
+
+My above and beyond for this assignment is with regards to the datasets. Most of the datasets only contain data up to a certain date. I made sure to pick datasets where they can be extended into the present day. For example with regards to the MLB dataset, it only goes up to 2018. I found a way to scrape websites to continue the dataset up to current years. The same can be applied for all the datasets that do next extend to the present day. This will require finding external data online, scraping websites, and merging datasets, but most of the datasets include instructions on how to do it. 
