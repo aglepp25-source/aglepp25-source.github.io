@@ -31,3 +31,9 @@ An analysis that seems interesting would be to look if people historically trust
 My fifth dataset comes from Tidy Tuesday and it is a dataset about the [Tour de France](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-04-07/readme.md). It has information about the winners of the tour, winners of individual stages, physical characteristics of the winner such as height and weight, and information on types of stages.
 
 An analysis would be to see if a specific type of stage is more or less predictive of indicating the overall GC winner. For example, does winning a flat stage indicate winning the entire tour. Another analysis would be to see if there were general trends in the characteristics of the winner over time. For example, does the average height of a winner grow taller or shorter across decades.
+
+# Where's Schueller
+
+Here is a Plotly Analysis from my Where's Schueller assignment. It is a heat map of Professor Schueller's location in Walla Walla over the years during the afternoon and evening of Halloween.
+
+[Halloween](newplot.png)
