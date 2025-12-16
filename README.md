@@ -41,3 +41,9 @@ Here is a Plotly Analysis from my Where's Schueller assignment. It is a heat map
 # Above and Beyond
 
 My above and beyond for this assignment is with regards to the datasets. Most of the datasets only contain data up to a certain date. I made sure to pick datasets where they can be extended into the present day. For example with regards to the MLB dataset, it only goes up to 2018. I found a way to scrape websites to continue the dataset up to current years. The same can be applied for all the datasets that do next extend to the present day. This will require finding external data online, scraping websites, and merging datasets, but most of the datasets include instructions on how to do it. 
+
+# Data Science Final Project
+
+My final project was about extending 538's project about the Goose Egg statistic, and then comparing the extended results to fastball velocity percentile data as tracked by Statcast starting with the 2015 MLB season. The Goose Egg data from the original 538 dataset only extended until 2017, so it had to be extended til 2025. It was then merged with fastball velocity data, and then plotted to see the impact of fastball velocity on number of Goose Eggs a reliever had in a specific season.
+
+[Goose Eggs](Goose-Egg)
